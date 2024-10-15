@@ -9,4 +9,6 @@ Docter's interface
 ![image](https://github.com/user-attachments/assets/6ba4152c-d254-46d5-ad9a-d9d06efa2739)
 User's interface for appointment booking
 ![image](https://github.com/user-attachments/assets/45ce0849-2601-46e5-be49-1436bff74403)
+Admin:
+![image](https://github.com/user-attachments/assets/a9de4e39-b587-492a-846e-8c7e58a066ac)
 
