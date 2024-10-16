@@ -1,3 +1,6 @@
+This is complete project with build of frontend,check about for frontend
+
+
 Basically this is a Site where user can get appointment from the docter in online from any place
 Also a Docter who want to apply for docter position can apply as docter when logged in as user,then admin checks the request to accept the request for docter
 ![image](https://github.com/user-attachments/assets/db55fac1-9595-4f54-bf3f-fd6cfc939e0c)
